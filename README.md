@@ -1,8 +1,5 @@
 # Mixture of Experts for materials science
 
-This repo contains code accompanying the paper, [Towards overcoming data 
-scarcity in materials science: unifying models and datasets with a mixture of experts framework](https://www.nature.com/articles/s41524-022-00929-x).
-
 ## Dependencies
 
 This package requires:
@@ -50,5 +47,3 @@ python main.py --dataset_name expt_eform --option add_k --use_all_extractors --k
 For datasets used during extractor pre-training, see
 https://drive.google.com/drive/folders/1lPphRgFheI7vhUGKZXR6acWcC59tVo5w?usp=sharing
 
-## Contact
-To ask questions, please open an issue on the issues tracker.
